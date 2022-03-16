@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(143, 143, 177);
+}
+.txt-box{
+    width: 200px;
+    padding: 10px 0px 10px 30px;
+    border-radius: 20px;
+    border: none;
+}
+span{
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+}
+button{
+    background-color: rgb(71, 71, 92);
+    color: rgb(240, 255, 250);
+    padding: 10px 50px 10px 50px;
+    border-radius: 20px;
+    border: 1px solid white;
+
+}
+button:hover{
+    background-color: yellow;
+    color: white;
+}
